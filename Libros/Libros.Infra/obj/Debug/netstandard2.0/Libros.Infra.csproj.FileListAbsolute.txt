@@ -1,0 +1,12 @@
+C:\Users\Charly\source\repos\Libros\Libros.Infra\bin\Debug\netstandard2.0\Libros.Infra.deps.json
+C:\Users\Charly\source\repos\Libros\Libros.Infra\bin\Debug\netstandard2.0\Libros.Infra.dll
+C:\Users\Charly\source\repos\Libros\Libros.Infra\bin\Debug\netstandard2.0\Libros.Infra.pdb
+C:\Users\Charly\source\repos\Libros\Libros.Infra\bin\Debug\netstandard2.0\Libros.Core.dll
+C:\Users\Charly\source\repos\Libros\Libros.Infra\bin\Debug\netstandard2.0\Libros.Core.pdb
+C:\Users\Charly\source\repos\Libros\Libros.Infra\obj\Debug\netstandard2.0\Libros.Infra.csprojAssemblyReference.cache
+C:\Users\Charly\source\repos\Libros\Libros.Infra\obj\Debug\netstandard2.0\Libros.Infra.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\Libros\Libros.Infra\obj\Debug\netstandard2.0\Libros.Infra.AssemblyInfo.cs
+C:\Users\Charly\source\repos\Libros\Libros.Infra\obj\Debug\netstandard2.0\Libros.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\Libros\Libros.Infra\obj\Debug\netstandard2.0\Libros.Infra.csproj.CopyComplete
+C:\Users\Charly\source\repos\Libros\Libros.Infra\obj\Debug\netstandard2.0\Libros.Infra.dll
+C:\Users\Charly\source\repos\Libros\Libros.Infra\obj\Debug\netstandard2.0\Libros.Infra.pdb

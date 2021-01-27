@@ -1,0 +1,9 @@
+C:\Users\Charly\source\repos\Libros\Libros.Core\bin\Debug\netstandard2.0\Libros.Core.deps.json
+C:\Users\Charly\source\repos\Libros\Libros.Core\bin\Debug\netstandard2.0\Libros.Core.dll
+C:\Users\Charly\source\repos\Libros\Libros.Core\bin\Debug\netstandard2.0\Libros.Core.pdb
+C:\Users\Charly\source\repos\Libros\Libros.Core\obj\Debug\netstandard2.0\Libros.Core.csprojAssemblyReference.cache
+C:\Users\Charly\source\repos\Libros\Libros.Core\obj\Debug\netstandard2.0\Libros.Core.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\Libros\Libros.Core\obj\Debug\netstandard2.0\Libros.Core.AssemblyInfo.cs
+C:\Users\Charly\source\repos\Libros\Libros.Core\obj\Debug\netstandard2.0\Libros.Core.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\Libros\Libros.Core\obj\Debug\netstandard2.0\Libros.Core.dll
+C:\Users\Charly\source\repos\Libros\Libros.Core\obj\Debug\netstandard2.0\Libros.Core.pdb
