@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Infra\\Libros.Infra.csproj": {}
+    "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Infra\\Libros.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj": {
+    "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj",
         "projectName": "Libros.Core",
-        "projectPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj",
+        "projectPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj",
         "packagesPath": "C:\\Users\\Charly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\obj\\",
+        "outputPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Charly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Infra\\Libros.Infra.csproj": {
+    "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Infra\\Libros.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Infra\\Libros.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Infra\\Libros.Infra.csproj",
         "projectName": "Libros.Infra",
-        "projectPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Infra\\Libros.Infra.csproj",
+        "projectPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Infra\\Libros.Infra.csproj",
         "packagesPath": "C:\\Users\\Charly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Infra\\obj\\",
+        "outputPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Charly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj": {
-                "projectPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj"
+              "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj": {
+                "projectPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj"
               }
             }
           }

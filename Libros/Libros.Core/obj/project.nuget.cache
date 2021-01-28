@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YNVycfZu3F3r3biVxtJYS7KsnM4w1cImpk3/qO8HYCsuJgdgrKr99QDvsRGXnmy5+MOwwguJ6M/tx4JwjoCQOQ==",
+  "dgSpecHash": "K0gpAEbjmMwtYeyz5FIqN0b2vLeGrNaUxO/lw/GG3wkqZBF+8dAIHnuUffC6lwDy5JxpnPmbV++w1obZSFuS5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj",
+  "projectFilePath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Charly\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\Charly\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.2\\microsoft.aspnetcore.http.features.5.0.2.nupkg.sha512",

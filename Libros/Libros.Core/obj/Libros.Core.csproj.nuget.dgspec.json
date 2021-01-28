@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj": {}
+    "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj": {
+    "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj",
         "projectName": "Libros.Core",
-        "projectPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj",
+        "projectPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj",
         "packagesPath": "C:\\Users\\Charly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\obj\\",
+        "outputPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Charly\\AppData\\Roaming\\NuGet\\NuGet.Config",

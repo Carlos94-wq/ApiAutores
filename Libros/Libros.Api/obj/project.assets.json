@@ -1231,11 +1231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Api\\Libros.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Api\\Libros.Api.csproj",
       "projectName": "Libros.Api",
-      "projectPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Api\\Libros.Api.csproj",
+      "projectPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Api\\Libros.Api.csproj",
       "packagesPath": "C:\\Users\\Charly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Api\\obj\\",
+      "outputPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Charly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1252,11 +1252,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj": {
-              "projectPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Core\\Libros.Core.csproj"
+            "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj": {
+              "projectPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Core\\Libros.Core.csproj"
             },
-            "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Infra\\Libros.Infra.csproj": {
-              "projectPath": "C:\\Users\\Charly\\source\\repos\\Libros\\Libros.Infra\\Libros.Infra.csproj"
+            "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Infra\\Libros.Infra.csproj": {
+              "projectPath": "C:\\Users\\Charly\\Desktop\\ApiAutores\\Libros\\Libros.Infra\\Libros.Infra.csproj"
             }
           }
         }
