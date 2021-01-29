@@ -1,1 +1,62 @@
-<p>autor-list works!</p>
+<div class="animate__animated animate__fadeIn">
+  <form (ngSubmit)="GetAutores()" [formGroup]="form">
+    <div class="row w-75">
+      <div class="col-4">
+        <input 
+            type="text"
+             placeholder="Nombre" 
+             class="form-control"
+             formControlName="nombre"
+          >
+      </div>
+      <div class="col-4">
+        <input 
+            type="text" 
+            placeholder="Apellidos" 
+            class="form-control"
+            formControlName="apellidos"
+        >
+      </div>
+      <div class="col-4">
+        <select class="form-select" formControlName="activo">
+          <option value="true">Activo</option>
+          <option value="false">Inactivo</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-4 mt-3">
+        <button type="submit" class="btn btn-info text-white">Buscar</button>
+      </div>
+    </div>
+  </form>
+
+  <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Nombre</th>
+          <th scope="col">Apellidos</th>
+          <th scope="col">Fecha de Nacimiento</th>
+          <th scope="col">Edad</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of Model">
+          <td>{{ item.nombre }}</td>
+          <td>{{ item.apellidos }}</td>
+          <td>{{ item.fechaNac }}</td>
+          <td>{{ item.edad }}</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div *ngIf="ShowAlert">
+      <app-alert></app-alert>
+    </div>
+
+    <div *ngIf="spiner" >
+      <app-loader></app-loader>
+    </div>
+  
+</div>
+

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Libros.Api.Responses
 {
-    public class ApiResponse<T>
+    public class ApiResponse<T> 
     {
         public T Data  { get; set; }
         public MetaData Meta { get; set; }

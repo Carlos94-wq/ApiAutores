@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { SharedModule } from '../Shared/shared.module';
 import { ApproutingModule } from '../approuting.module';
 import { HttpClientModule } from '@angular/common/http';
+import { ReactiveFormsModule } from '@angular/forms';
 
 import { AutorService } from '../Services/autor.service';
 
@@ -32,7 +33,8 @@ import { MainComponent } from './main/main.component';
     CommonModule,
     SharedModule,
     ApproutingModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers:[
     AutorService

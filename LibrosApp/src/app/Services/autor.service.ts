@@ -1,6 +1,7 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { environment } from 'src/environments/environment';
+import { AutorQueryFilters } from '../Models/AutorQueryFilters';
 
 @Injectable()
 export class AutorService {
@@ -13,7 +14,11 @@ export class AutorService {
         //this.headers.set('Content-Type','application/json')
     }
 
-    public GetAutores(){
-        return this._http.get(this.Url + 'Autor');
+    public GetAutores(filter: AutorQueryFilters){
+        return this._http.get(`${this.Url}Autor?activo=${filter.Activo}&nombre=${filter.Nombre}&apellidos=${filter.Apellidos}`);
+    }
+
+    public GetAutor(idx: number){
+        return this._http.get(this.Url + 'Autor/' + idx);
     }
 }

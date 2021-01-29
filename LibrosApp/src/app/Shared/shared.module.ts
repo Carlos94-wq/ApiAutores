@@ -4,16 +4,22 @@ import { RouterModule } from '@angular/router';
 
 import { HeaderComponent } from './header/header.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { AlertComponent } from './alert/alert.component';
+import { LoaderComponent } from './loader/loader.component';
 
 
 @NgModule({
   declarations: [
     HeaderComponent, 
-    PageNotFoundComponent
+    PageNotFoundComponent, 
+    AlertComponent,
+    LoaderComponent
   ],
   exports:[ 
     HeaderComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    AlertComponent,
+    LoaderComponent
   ],
   imports: [
     CommonModule,
