@@ -12,6 +12,7 @@ import { AutorListComponent } from './autor-list/autor-list.component';
 import { LibroComponent } from './libro/libro.component';
 import { LibroListComponent } from './libro-list/libro-list.component';
 import { MainComponent } from './main/main.component';
+import { AutorDetailComponent } from './autor-detail/autor-detail.component';
 
 
 @NgModule({
@@ -20,14 +21,16 @@ import { MainComponent } from './main/main.component';
     AutorListComponent, 
     LibroComponent, 
     LibroListComponent, 
-    MainComponent
+    MainComponent, 
+    AutorDetailComponent
   ],
   exports:[
     AutorComponent,
     AutorListComponent, 
     LibroComponent, 
     LibroListComponent,
-    MainComponent
+    MainComponent,
+    AutorDetailComponent
   ],
   imports: [
     CommonModule,

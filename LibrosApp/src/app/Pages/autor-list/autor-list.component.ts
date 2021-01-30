@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
+import { ActivatedRoute, Router } from '@angular/router';
 import { AutorQueryFilters } from 'src/app/Models/AutorQueryFilters';
 import { AutorService } from 'src/app/Services/autor.service';
 
@@ -16,7 +17,11 @@ export class AutorListComponent implements OnInit {
   public ShowAlert: boolean = false;
   public spiner: boolean = false;
 
-  constructor(private _Service: AutorService, private _Builder: FormBuilder) { 
+  constructor(
+    private _Service: AutorService, 
+    private _Builder: FormBuilder,
+    private _Router: Router
+  ) { 
 
     this.form = this._Builder.group({
       nombre: [''],
@@ -50,6 +55,10 @@ export class AutorListComponent implements OnInit {
         this.ShowAlert = false;
       }
     })
+  }
+
+  public NaviGateUrl( id: number ){
+    this._Router.navigate(['Main/AutorDetail', id])
   }
 
 }

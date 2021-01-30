@@ -4,6 +4,6 @@ export class LibroDto {
     public  IdCategoria : number;
     public  Titulo : string;
     public  Descripcion : string;
-    public  Portada : string;
+    public  Portada : FormData;
     public  UrlPortada : string;
 }

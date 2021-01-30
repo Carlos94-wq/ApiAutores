@@ -21,4 +21,8 @@ export class AutorService {
     public GetAutor(idx: number){
         return this._http.get(this.Url + 'Autor/' + idx);
     }
+
+    public PostAutor(){
+        
+    }
 }

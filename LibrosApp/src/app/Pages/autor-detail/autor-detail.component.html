@@ -1,0 +1,28 @@
+<div class="row">
+    <div class="col-md-12 animate__animated animate__fadeInLeftBig">
+        <h3>Autor: {{ ModelList.nombre }} {{ ModelList.apellidos }}</h3>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <h3 class=" animate__animated animate__fadeInLeftBig">Libros</h3>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card-group animate__animated animate__fadeInRightBig">
+            <div *ngFor="let item of ModelList.libros" class="card">
+              <img [src]="item.portada" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">{{ item.titulo }}</h5>
+              </div>
+              <div class="card-footer d-flex justify-content-between">
+                <small class="text-muted">Categoria: {{ item.categoria.descripcion }}</small>
+                <span class="badge bg-primary">Ver Libro</span>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
